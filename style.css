@@ -1,0 +1,16 @@
+p {
+    color: blue;
+    line-height: 5px;
+}
+h2 {
+    line-height: 5px;
+}
+
+.diddy {
+    color: red;
+}
+
+#first_id {
+    color: orange;
+}
+
